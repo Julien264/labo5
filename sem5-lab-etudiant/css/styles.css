@@ -39,12 +39,19 @@ body {
 
 /* ===== Numéro 3a ===== */
 header .wrapper {
-
+display: flex;
+align-items: center;
+justify-content: space-between;
 }
 
 /* ===== Numéro 3b ===== */
 .logo {
-
+display: flex;
+align-items: center;
+gap: 20px;
+font: 700 2.5rem 'Nunito', sans-serif;
+text-decoration: none;
+color: #444444;
 }
 
 /* ===== Numéro 3c ===== */
