@@ -73,6 +73,7 @@ header .wrapper {
     text-transform: uppercase;
     text-decoration: none;
     font: 700 0.875rem 'PT Sans', sans-serif;
+    border: 2px solid transparent;
 }
 
 
